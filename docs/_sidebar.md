@@ -17,6 +17,7 @@
 * Function
 	* [new agnostic](function/new.md)
 	* [bind is slower](function/bind.md)
+	* [Timers](function/timers.md)
 
 * RegExp
 	* [Use the correct method](regexp/correct-methods.md)
